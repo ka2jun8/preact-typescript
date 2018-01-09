@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "strict": true,
+        "module": "es2015",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "outDir": "./dist/bundle",
+        "rootDir": ".",
+        "jsx": "react",
+        "jsxFactory": "h"
+    },
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
+
